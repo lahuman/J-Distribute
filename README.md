@@ -20,7 +20,17 @@ CI 구축이 어려운 곳에서 서버 없이 간단하게 사용할 수 있으
 <div markdown="0"><a href="https://lahuman.github.io/assets/project/jdistribute/J-DISTRIBUTE_32.zip" class="btn btn-success">J-Distribute 32bit</a></div>
 
 <div markdown="0"><a href="https://lahuman.github.io/assets/project/jdistribute/J-DISTRIBUTE_64.zip" class="btn btn-success">J-Distribute 64bit</a></div>
-      
+
+### Linux 64bit 전용 실행 파일
+<div markdown="0"><a href="https://lahuman.github.io/assets/project/jdistribute/J-Distribute_linux_64.jar" class="btn btn-success">J-Distribute Linux 64bit</a></div>
+
+#### Linux 실행 방법
+
+``` bash
+java -jar J-Distribute_linux_64.jar
+```
+
+
 ### 다른 OS의 경우 Source를 다운받아 실행 하셔야 합니다.
 
 ## Notice
